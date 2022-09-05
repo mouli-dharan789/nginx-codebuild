@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM nginx
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
